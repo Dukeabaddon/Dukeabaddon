@@ -3,12 +3,12 @@
 
 **Full Stack Developer**
 
-🌈 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 I'm a full stack developer passionate about building production-grade applications, developer tools, and automation solutions that solve real-world problems. Based in the Philippines, I specialize in crafting scalable web applications, terminal utilities, and intelligent automation systems that enhance developer productivity.
 
 <!-- TIP-LIST:START -->
 > [!TIP]
+> 🌈 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+>
 > **Building Full Stack Solutions and Developer Tools That Accelerate Productivity and Innovation**
 >
 > I create end-to-end applications and automation tools designed to simplify complex workflows. From web applications that scale, to CLI utilities that streamline operations, to intelligent bots that automate repetitive tasks, I focus on delivering solutions that matter.
