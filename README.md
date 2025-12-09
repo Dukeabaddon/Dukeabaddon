@@ -7,8 +7,6 @@ I'm a full stack developer passionate about building production-grade applicatio
 
 <!-- TIP-LIST:START -->
 > [!TIP]
-> 🌈 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
->
 > **Building Full Stack Solutions and Developer Tools That Accelerate Productivity and Innovation**
 >
 > I create end-to-end applications and automation tools designed to simplify complex workflows. From web applications that scale, to CLI utilities that streamline operations, to intelligent bots that automate repetitive tasks, I focus on delivering solutions that matter.
