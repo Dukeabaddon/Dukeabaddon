@@ -3,6 +3,8 @@
 
 **Full Stack Developer**
 
+<div style="background: linear-gradient(90deg, #0078D4, #7B2CBF, #FF006E, #FB5607, #00F5FF); height: 4px; margin: 20px 0; border-radius: 2px;"></div>
+
 I'm a full stack developer passionate about building production-grade applications, developer tools, and automation solutions that solve real-world problems. Based in the Philippines, I specialize in crafting scalable web applications, terminal utilities, and intelligent automation systems that enhance developer productivity.
 
 <!-- TIP-LIST:START -->
