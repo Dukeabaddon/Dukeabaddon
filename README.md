@@ -79,7 +79,7 @@ Interactive tools for data visualization and analysis, transforming complex info
 ### 🔗 Connect With Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/aaronmecate/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  /></a>
-  <a href="https://dukeabaddon.github.io/Aaron-s-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio logo"  /></a>
-  <a href="https://github.com/Dukeabaddon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github logo"  /></a>
+  <a href="https://www.linkedin.com/in/aaronmecate/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  /></a>
+  <a href="https://dukeabaddon.github.io/Aaron-s-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio logo"  /></a>
+  <a href="https://github.com/Dukeabaddon" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github logo"  /></a>
 </div>
