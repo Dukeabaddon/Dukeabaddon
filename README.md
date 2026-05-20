@@ -1,81 +1,60 @@
+﻿## Aaron Mecate
 
-## Aaron Mecate
+**Software Engineer specializing in Systems Architecture, DevTools, and High-Performance Apps**
 
-**Full Stack Developer**
-
-I'm a full stack developer passionate about building production-grade applications, developer tools, and automation solutions that solve real-world problems. Based in the Philippines, I specialize in crafting scalable web applications, terminal utilities, and intelligent automation systems that enhance developer productivity.
+I build complete web applications, automation solutions, and complex tooling designed to simplify workflows. Based in the Philippines, I specialize in crafting scalable systems using React, TypeScript, and AI-driven logic.
 
 <!-- TIP-LIST:START -->
 > [!TIP]
-> **Building Full Stack Solutions and Developer Tools That Accelerate Productivity and Innovation**
+> **Building High-Signal Developer Tools and Full-Stack Solutions**
 >
-> I create end-to-end applications and automation tools designed to simplify complex workflows. From web applications that scale, to CLI utilities that streamline operations, to intelligent bots that automate repetitive tasks, I focus on delivering solutions that matter.
+> I focus on solving hard technical constraints, maintaining clean architecture, and delivering tools that matter. From AST-parsing algorithms to on-device ML and automated data pipelines, my work bridges the gap between raw engineering and user experience.
 >
-> Explore my work and see how I approach problem-solving:
->
-> <a href="https://dukeabaddon.github.io/Aaron-s-Portfolio/"><img alt="View Portfolio" src="https://img.shields.io/badge/View%20Portfolio-0078D4?style=for-the-badge"/></a>
->
+> <a href="https://dukeabaddon.github.io/Aaron-s-Portfolio/"><img alt="View Portfolio" src="https://img.shields.io/badge/View_Portfolio-0078D4?style=for-the-badge"/></a>
+> 
 > <details>
-> <summary>⚡ <strong>My Focus Areas</strong></summary>
+> <summary>⚡ <strong>My Core Competencies</strong></summary>
 > <br/>
 >
-> **Full Stack Development**: Building complete web applications with modern frameworks (React, TypeScript, TailwindCSS) and backend systems (ASP.NET, Node.js, Python)
->
-> **Developer Tools & Automation**: Creating N8N workflows, terminal utilities, and bots that eliminate tedious tasks and boost team efficiency
->
-> **Data Visualization**: Developing tools that transform complex data into intuitive visual representations, making analysis accessible and actionable
->
-> **Problem-Solving Through Code**: Every project starts with understanding real pain points, then designing elegant solutions that scale and perform
->
+> **Systems & DevTools**: Building local MCP servers, AST optimizers, and VS Code extensions.<br>
+> **Mobile & On-Device AI**: Engineering apps with Flutter, Dart, and TFLite (MobileFaceNet).<br>
+> **Full-Stack & Data**: React, Node.js, Supabase, PostgreSQL, and geospatial visualization.<br>
 > </details>
 <!-- TIP-LIST:END -->
 
+## 🥞 Tech Stack
 
-## 🥞 My Tech Stack
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
+![](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
+![](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white) 
+![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/ZSH_Shell-2bbc8a?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+## 🏗️ Featured Engineering Projects
 
-## 🏗️ My Open Source Projects
+### Systems Architecture & Developer Tools
+Complex tooling focusing on AST parsing, offline ML models, and developer experience.
 
-### Full Stack Applications
+| 📂 Project | ⚙️ Architecture & Tech | ⭐ Stars | 🍴 Forks |
+| :--- | :--- | :--- | :--- |
+| **[Gate-MCP](https://github.com/Dukeabaddon/Gate-MCP)**<br>Context-compression server | **TS, Node.js, Tree-sitter**<br>5-layer LLM context compression via AST parsing & SQLite WAL caching. | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/Gate-MCP?style=flat-square)](https://github.com/Dukeabaddon/Gate-MCP/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/Gate-MCP?style=flat-square)](https://github.com/Dukeabaddon/Gate-MCP/network/members) |
+| **[FaceWatch](https://github.com/Dukeabaddon/FaceWatch)**<br>On-device facial recognition | **Flutter, Dart, TFLite**<br>MobileFaceNet integration extracting 192-dim embeddings natively + Hive NoSQL. | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/FaceWatch?style=flat-square)](https://github.com/Dukeabaddon/FaceWatch/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/FaceWatch?style=flat-square)](https://github.com/Dukeabaddon/FaceWatch/network/members) |
+| **[ERD-Visualizer](https://github.com/Dukeabaddon/ERD-Visualizer)**<br>VS Code Extension | **TS, VS Code API, SVG**<br>Parses raw SQL DDL and JSON schemas to render interactive entity-relationship diagrams. | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/ERD-Visualizer?style=flat-square)](https://github.com/Dukeabaddon/ERD-Visualizer/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/ERD-Visualizer?style=flat-square)](https://github.com/Dukeabaddon/ERD-Visualizer/network/members) |
 
-Complete web applications built with modern tech stacks, showcasing end-to-end development expertise.
+### Full-Stack Web & Data Integration
+High-performance dashboards and transactional applications.
 
-| 📂 Projects                                                                                    | ⭐ Stars                                                                                                                                                                   | 🍴 Forks                                                                                                                                                                      | 🚧 Issues                                                                                                                                                                | 📬 Pull requests                                                                                                                                                                  |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Event Management System](https://github.com/Dukeabaddon/EventManagementSystem)                | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/EventManagementSystem)](https://github.com/Dukeabaddon/EventManagementSystem/stargazers)                         | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/EventManagementSystem)](https://github.com/Dukeabaddon/EventManagementSystem/network/members)                       | [![Issues](https://img.shields.io/github/issues/Dukeabaddon/EventManagementSystem)](https://github.com/Dukeabaddon/EventManagementSystem/issues)                       | [![Pull requests](https://img.shields.io/github/issues-pr/Dukeabaddon/EventManagementSystem)](https://github.com/Dukeabaddon/EventManagementSystem/pulls)                       |
-| [Barangay Health Center Management](https://github.com/Dukeabaddon/Barangay-Health-Center-Management) | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/Barangay-Health-Center-Management)](https://github.com/Dukeabaddon/Barangay-Health-Center-Management/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/Barangay-Health-Center-Management)](https://github.com/Dukeabaddon/Barangay-Health-Center-Management/network/members) | [![Issues](https://img.shields.io/github/issues/Dukeabaddon/Barangay-Health-Center-Management)](https://github.com/Dukeabaddon/Barangay-Health-Center-Management/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/Dukeabaddon/Barangay-Health-Center-Management)](https://github.com/Dukeabaddon/Barangay-Health-Center-Management/pulls) |
-| [KursoKo](https://github.com/Dukeabaddon/KursoKo)                                             | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/KursoKo)](https://github.com/Dukeabaddon/KursoKo/stargazers)                                                   | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/KursoKo)](https://github.com/Dukeabaddon/KursoKo/network/members)                                                 | [![Issues](https://img.shields.io/github/issues/Dukeabaddon/KursoKo)](https://github.com/Dukeabaddon/KursoKo/issues)                                                 | [![Pull requests](https://img.shields.io/github/issues-pr/Dukeabaddon/KursoKo)](https://github.com/Dukeabaddon/KursoKo/pulls)                                                 |
-| [Royal Pastries](https://github.com/Dukeabaddon/Royal-Pastries)                               | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/Royal-Pastries)](https://github.com/Dukeabaddon/Royal-Pastries/stargazers)                                     | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/Royal-Pastries)](https://github.com/Dukeabaddon/Royal-Pastries/network/members)                                   | [![Issues](https://img.shields.io/github/issues/Dukeabaddon/Royal-Pastries)](https://github.com/Dukeabaddon/Royal-Pastries/issues)                                   | [![Pull requests](https://img.shields.io/github/issues-pr/Dukeabaddon/Royal-Pastries)](https://github.com/Dukeabaddon/Royal-Pastries/pulls)                                   |
-
-### Developer Tools & Automation
-
-Intelligent bots and automation tools built with N8N, Python, and Node.js to streamline workflows and eliminate repetitive tasks.
-
-| 📂 Projects                                                                                    | ⭐ Stars                                                                                                                                                                   | 🍴 Forks                                                                                                                                                                      | 🚧 Issues                                                                                                                                                                | 📬 Pull requests                                                                                                                                                                  |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [N8N Quizziz Bot](https://github.com/Dukeabaddon/n8n-quizziz-bot)                             | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/n8n-quizziz-bot)](https://github.com/Dukeabaddon/n8n-quizziz-bot/stargazers)                                   | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/n8n-quizziz-bot)](https://github.com/Dukeabaddon/n8n-quizziz-bot/network/members)                                 | [![Issues](https://img.shields.io/github/issues/Dukeabaddon/n8n-quizziz-bot)](https://github.com/Dukeabaddon/n8n-quizziz-bot/issues)                                 | [![Pull requests](https://img.shields.io/github/issues-pr/Dukeabaddon/n8n-quizziz-bot)](https://github.com/Dukeabaddon/n8n-quizziz-bot/pulls)                                 |
-| [Facebook Marketplace Smart Filter Bot](https://github.com/Dukeabaddon/facebook-marketplace-smart-filter-bot) | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/facebook-marketplace-smart-filter-bot)](https://github.com/Dukeabaddon/facebook-marketplace-smart-filter-bot/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/facebook-marketplace-smart-filter-bot)](https://github.com/Dukeabaddon/facebook-marketplace-smart-filter-bot/network/members) | [![Issues](https://img.shields.io/github/issues/Dukeabaddon/facebook-marketplace-smart-filter-bot)](https://github.com/Dukeabaddon/facebook-marketplace-smart-filter-bot/issues) | [![Pull requests](https://img.shields.io/github/issues-pr/Dukeabaddon/facebook-marketplace-smart-filter-bot)](https://github.com/Dukeabaddon/facebook-marketplace-smart-filter-bot/pulls) |
-| [Duke Toolbox Suite](https://github.com/Dukeabaddon/duke-toolbox-suite)                       | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/duke-toolbox-suite)](https://github.com/Dukeabaddon/duke-toolbox-suite/stargazers)                             | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/duke-toolbox-suite)](https://github.com/Dukeabaddon/duke-toolbox-suite/network/members)                           | [![Issues](https://img.shields.io/github/issues/Dukeabaddon/duke-toolbox-suite)](https://github.com/Dukeabaddon/duke-toolbox-suite/issues)                           | [![Pull requests](https://img.shields.io/github/issues-pr/Dukeabaddon/duke-toolbox-suite)](https://github.com/Dukeabaddon/duke-toolbox-suite/pulls)                           |
-
-### Visualization & Analysis Tools
-
-Interactive tools for data visualization and analysis, transforming complex information into actionable insights.
-
-| 📂 Projects & Tools                                                                            | ⭐ Stars                                                                                                                                                                   | 🍴 Forks                                                                                                                                                                      | 🚧 Issues                                                                                                                                                                | 📬 Pull requests                                                                                                                                                                  |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ERD Visualizer](https://github.com/Dukeabaddon/ERD-Visualizer)                               | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/ERD-Visualizer)](https://github.com/Dukeabaddon/ERD-Visualizer/stargazers)                                     | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/ERD-Visualizer)](https://github.com/Dukeabaddon/ERD-Visualizer/network/members)                                   | [![Issues](https://img.shields.io/github/issues/Dukeabaddon/ERD-Visualizer)](https://github.com/Dukeabaddon/ERD-Visualizer/issues)                                   | [![Pull requests](https://img.shields.io/github/issues-pr/Dukeabaddon/ERD-Visualizer)](https://github.com/Dukeabaddon/ERD-Visualizer/pulls)                                   |
-| [EarthPH](https://github.com/Dukeabaddon/earthph)                                             | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/earthph)](https://github.com/Dukeabaddon/earthph/stargazers)                                                   | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/earthph)](https://github.com/Dukeabaddon/earthph/network/members)                                                 | [![Issues](https://img.shields.io/github/issues/Dukeabaddon/earthph)](https://github.com/Dukeabaddon/earthph/issues)                                                 | [![Pull requests](https://img.shields.io/github/issues-pr/Dukeabaddon/earthph)](https://github.com/Dukeabaddon/earthph/pulls)                                                 |
+| 📂 Project | ⚙️ Architecture & Tech | ⭐ Stars | 🍴 Forks |
+| :--- | :--- | :--- | :--- |
+| **[EarthPH](https://github.com/Dukeabaddon/earthph)**<br>Seismic dashboard | **React, Supabase, Leaflet**<br>Real-time earthquake monitor with 24-hr TTL mapping PHIVOLCS geo-data. | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/earthph?style=flat-square)](https://github.com/Dukeabaddon/earthph/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/earthph?style=flat-square)](https://github.com/Dukeabaddon/earthph/network/members) |
+| **[QC-Navigo](#)**<br>Mobile GIS routing | **Flutter, Dart, APIs**<br>Handles complex geospatial mobile interactions and location-based logic natively. | - | - |
+| **[Barangay Health Center](#)**<br>Transactional system | **React, Node.js, PostgreSQL**<br>Role-based access control, secure record isolation, and live operational stats. | - | - |
 
 ---
 
@@ -86,3 +65,5 @@ Interactive tools for data visualization and analysis, transforming complex info
   <a href="https://dukeabaddon.github.io/Aaron-s-Portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio logo"  /></a>
   <a href="https://github.com/Dukeabaddon" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github logo"  /></a>
 </div>
+
+
