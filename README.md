@@ -53,7 +53,7 @@ High-performance dashboards and transactional applications.
 | 📂 Project | ⚙️ Architecture & Tech | ⭐ Stars | 🍴 Forks |
 | :--- | :--- | :--- | :--- |
 | **[EarthPH](https://github.com/Dukeabaddon/earthph)**<br>Seismic dashboard | **React, Supabase, Leaflet**<br>Real-time earthquake monitor with 24-hr TTL mapping PHIVOLCS geo-data. | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/earthph?style=flat-square)](https://github.com/Dukeabaddon/earthph/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/earthph?style=flat-square)](https://github.com/Dukeabaddon/earthph/network/members) |
-| **[QC-Navigo](#)**<br>Mobile GIS routing | **Flutter, Dart, APIs**<br>Handles complex geospatial mobile interactions and location-based logic natively. | - | - |
+| **[QC-Navigo](https://github.com/Dukeabaddon/qc-navigo-downloads)**<br>Mobile GIS routing | **Flutter, Dart, APIs**<br>Handles complex geospatial mobile interactions and location-based logic natively. | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/qc-navigo-downloads?style=flat-square)](https://github.com/Dukeabaddon/qc-navigo-downloads/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/qc-navigo-downloads?style=flat-square)](https://github.com/Dukeabaddon/qc-navigo-downloads/network/members) |
 | **[Barangay Health Center](#)**<br>Transactional system | **React, Node.js, PostgreSQL**<br>Role-based access control, secure record isolation, and live operational stats. | - | - |
 
 ---
