@@ -1,4 +1,4 @@
-﻿## Aaron Mecate
+## Aaron Mecate
 
 **Software Engineer specializing in Systems Architecture, DevTools, and High-Performance Apps**
 
@@ -44,7 +44,7 @@ Complex tooling focusing on AST parsing, offline ML models, and developer experi
 | 📂 Project | ⚙️ Architecture & Tech | ⭐ Stars | 🍴 Forks |
 | :--- | :--- | :--- | :--- |
 | **[Gate-MCP](https://github.com/Dukeabaddon/Gate-MCP)**<br>Context-compression server | **TS, Node.js, Tree-sitter**<br>5-layer LLM context compression via AST parsing & SQLite WAL caching. | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/Gate-MCP?style=flat-square)](https://github.com/Dukeabaddon/Gate-MCP/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/Gate-MCP?style=flat-square)](https://github.com/Dukeabaddon/Gate-MCP/network/members) |
-| **[DeepSight](https://github.com/Dukeabaddon/DeepSight)**<br>Local-first MCP testing server | **TS, Node.js, Playwright**<br>Automates Playwright test generation and execution from your IDE using Tree-sitter and MCP. | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/DeepSight?style=flat-square)](https://github.com/Dukeabaddon/DeepSight/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/DeepSight?style=flat-square)](https://github.com/Dukeabaddon/DeepSight/network/members) |
+| **[Telic](https://github.com/Dukeabaddon/Telic)**<br>Agent workflow compiler | **TS, Node.js, MCP, SQLite**<br>Turns rough requests into evidence-backed agent workflows with permissions, verification, and local run ledgers. | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/Telic?style=flat-square)](https://github.com/Dukeabaddon/Telic/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/Telic?style=flat-square)](https://github.com/Dukeabaddon/Telic/network/members) |
 | **[ERD-Visualizer](https://github.com/Dukeabaddon/ERD-Visualizer)**<br>VS Code Extension | **TS, VS Code API, SVG**<br>Parses raw SQL DDL and JSON schemas to render interactive entity-relationship diagrams. | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/ERD-Visualizer?style=flat-square)](https://github.com/Dukeabaddon/ERD-Visualizer/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/ERD-Visualizer?style=flat-square)](https://github.com/Dukeabaddon/ERD-Visualizer/network/members) |
 
 ### Full-Stack Web & Data Integration
@@ -54,7 +54,7 @@ High-performance dashboards and transactional applications.
 | :--- | :--- | :--- | :--- |
 | **[EarthPH](https://github.com/Dukeabaddon/earthph)**<br>Seismic dashboard | **React, Supabase, Leaflet**<br>Real-time earthquake monitor with 24-hr TTL mapping PHIVOLCS geo-data. | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/earthph?style=flat-square)](https://github.com/Dukeabaddon/earthph/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/earthph?style=flat-square)](https://github.com/Dukeabaddon/earthph/network/members) |
 | **[QC-Navigo](https://github.com/Dukeabaddon/qc-navigo-downloads)**<br>Mobile GIS routing | **Flutter, Dart, APIs**<br>Handles complex geospatial mobile interactions and location-based logic natively. | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/qc-navigo-downloads?style=flat-square)](https://github.com/Dukeabaddon/qc-navigo-downloads/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/qc-navigo-downloads?style=flat-square)](https://github.com/Dukeabaddon/qc-navigo-downloads/network/members) |
-| **[Barangay Health Center](#)**<br>Transactional system | **React, Node.js, PostgreSQL**<br>Role-based access control, secure record isolation, and live operational stats. | - | - |
+| **[KursoKo](https://github.com/Dukeabaddon/KursoKo)**<br>Career assessment | **React, Vite, Tailwind**<br>RIASEC assessment for SHS students with careers, schools, and scholarships — client-side scoring, no backend. | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/KursoKo?style=flat-square)](https://github.com/Dukeabaddon/KursoKo/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/KursoKo?style=flat-square)](https://github.com/Dukeabaddon/KursoKo/network/members) |
 
 ---
 
