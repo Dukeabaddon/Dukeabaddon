@@ -10,7 +10,7 @@ I build complete web applications, automation solutions, and complex tooling des
 >
 > I focus on solving hard technical constraints, maintaining clean architecture, and delivering tools that matter. From AST-parsing algorithms to on-device ML and automated data pipelines, my work bridges the gap between raw engineering and user experience.
 >
-> <a href="https://dukeabaddon.github.io/Aaron-s-Portfolio/"><img alt="View Portfolio" src="https://img.shields.io/badge/View_Portfolio-0078D4?style=for-the-badge"/></a>
+> <a href="https://aaronmecate.me"><img alt="View Portfolio" src="https://img.shields.io/badge/View_Portfolio-0078D4?style=for-the-badge"/></a>
 > 
 > <details>
 > <summary>⚡ <strong>My Core Competencies</strong></summary>
@@ -62,7 +62,7 @@ High-performance dashboards and transactional applications.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aaronmecate/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  /></a>
-  <a href="https://dukeabaddon.github.io/Aaron-s-Portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio logo"  /></a>
+  <a href="https://aaronmecate.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio logo"  /></a>
   <a href="https://github.com/Dukeabaddon" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github logo"  /></a>
 </div>
 
