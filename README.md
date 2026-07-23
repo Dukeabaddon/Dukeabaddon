@@ -23,11 +23,7 @@
 
 ## 🧬 About Me
 
-I am a Frontend Wizard and Systems Architect based in the Philippines.
-
-My work focuses on developer tools, high-performance applications, and on-device AI. I bridge raw engineering with polished user experience, and I am currently building context-compression MCP servers and VS Code extensions.
-
-I architect complete web applications, automation pipelines, and complex tooling that simplifies workflows. From AST-parsing algorithms to on-device ML with TFLite, I work where clean architecture meets real-world impact.
+I write software in the Philippines — mostly React/TypeScript apps and tooling that makes day-to-day work less annoying. Current stuff: context-compression MCP servers and editor extensions.
 
 ### ☕ Coffee: Always black.
 
@@ -99,8 +95,8 @@ I architect complete web applications, automation pipelines, and complex tooling
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dukeabaddon&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dukeabaddon&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9" height="180" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Dukeabaddon&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9" height="180" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dukeabaddon&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9" height="180" />
 </div>
 
 <div align="center">
