@@ -81,7 +81,7 @@ I write software in the Philippines — mostly React/TypeScript apps and tooling
 | Project | Description | Tech | Stars |
 | --- | --- | --- | --- |
 | [Gate-MCP](https://github.com/Dukeabaddon/Gate-MCP) | Context-compression server with 5-layer LLM context compression via AST parsing & SQLite WAL caching | TS · Node.js · Tree-sitter | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/Gate-MCP?style=flat-square)](https://github.com/Dukeabaddon/Gate-MCP/stargazers) |
-| [FaceWatch](https://github.com/Dukeabaddon/FaceWatch) | On-device facial recognition with MobileFaceNet 192-dim embeddings + Hive NoSQL | Flutter · Dart · TFLite | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/FaceWatch?style=flat-square)](https://github.com/Dukeabaddon/FaceWatch/stargazers) |
+| [Telic](https://github.com/Dukeabaddon/Telic) | Agent workflow compiler — turns rough requests into evidence-backed runs with permissions, verification, and local ledgers | TS · Node.js · MCP · SQLite | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/Telic?style=flat-square)](https://github.com/Dukeabaddon/Telic/stargazers) |
 | [ERD-Visualizer](https://github.com/Dukeabaddon/ERD-Visualizer) | VS Code extension — parses SQL DDL & JSON schemas into interactive ER diagrams | TS · VS Code API · SVG | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/ERD-Visualizer?style=flat-square)](https://github.com/Dukeabaddon/ERD-Visualizer/stargazers) |
 
 ### 🌐 Full-Stack & Data
