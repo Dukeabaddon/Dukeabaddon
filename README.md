@@ -1,69 +1,163 @@
-## Aaron Mecate
+<!-- Banner -->
 
-**Software Engineer specializing in Systems Architecture, DevTools, and High-Performance Apps**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/aefd99fb-725f-4aff-b84a-d76e2bc24841.gif" width="100%" alt="pixel-art-readme-gifs" />
+</p>
 
-I build complete web applications, automation solutions, and complex tooling designed to simplify workflows. Based in the Philippines, I specialize in crafting scalable systems using React, TypeScript, and AI-driven logic.
+<!-- Typing Animation -->
 
-<!-- TIP-LIST:START -->
-> [!TIP]
-> **Building High-Signal Developer Tools and Full-Stack Solutions**
->
-> I focus on solving hard technical constraints, maintaining clean architecture, and delivering tools that matter. From AST-parsing algorithms to on-device ML and automated data pipelines, my work bridges the gap between raw engineering and user experience.
->
-> <a href="https://dukeabaddon.github.io/Aaron-s-Portfolio/"><img alt="View Portfolio" src="https://img.shields.io/badge/View_Portfolio-0078D4?style=for-the-badge"/></a>
-> 
-> <details>
-> <summary>⚡ <strong>My Core Competencies</strong></summary>
-> <br/>
->
-> **Systems & DevTools**: Building local MCP servers, AST optimizers, and VS Code extensions.<br>
-> **Mobile & On-Device AI**: Engineering apps with Flutter, Dart, and TFLite (MobileFaceNet).<br>
-> **Full-Stack & Data**: React, Node.js, Supabase, PostgreSQL, and geospatial visualization.<br>
-> </details>
-<!-- TIP-LIST:END -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Making+useful+stuff+one+project+at+a+time;React+%2B+TypeScript+%2B+Node.js" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🥞 Tech Stack
+<!-- Profile Views & Social -->
 
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
-![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-![](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
-![](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white) 
-![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dukeabaddon&label=Profile%20Views&color=FF6B6B&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/Dukeabaddon?tab=followers">
+    <img src="https://img.shields.io/github/followers/Dukeabaddon?label=Followers&style=flat-square&color=45B7D1" alt="Followers" />
+  </a>
+</p>
 
-## 🏗️ Featured Engineering Projects
+🧬 About Me
 
-### Systems Architecture & Developer Tools
-Complex tooling focusing on AST parsing, offline ML models, and developer experience.
+I am a Frontend Wizard and Systems Architect based in the Philippines.
 
-| 📂 Project | ⚙️ Architecture & Tech | ⭐ Stars | 🍴 Forks |
-| :--- | :--- | :--- | :--- |
-| **[Gate-MCP](https://github.com/Dukeabaddon/Gate-MCP)**<br>Context-compression server | **TS, Node.js, Tree-sitter**<br>5-layer LLM context compression via AST parsing & SQLite WAL caching. | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/Gate-MCP?style=flat-square)](https://github.com/Dukeabaddon/Gate-MCP/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/Gate-MCP?style=flat-square)](https://github.com/Dukeabaddon/Gate-MCP/network/members) |
-| **[Telic](https://github.com/Dukeabaddon/Telic)**<br>Agent workflow compiler | **TS, Node.js, MCP, SQLite**<br>Turns rough requests into evidence-backed agent workflows with permissions, verification, and local run ledgers. | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/Telic?style=flat-square)](https://github.com/Dukeabaddon/Telic/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/Telic?style=flat-square)](https://github.com/Dukeabaddon/Telic/network/members) |
-| **[ERD-Visualizer](https://github.com/Dukeabaddon/ERD-Visualizer)**<br>VS Code Extension | **TS, VS Code API, SVG**<br>Parses raw SQL DDL and JSON schemas to render interactive entity-relationship diagrams. | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/ERD-Visualizer?style=flat-square)](https://github.com/Dukeabaddon/ERD-Visualizer/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/ERD-Visualizer?style=flat-square)](https://github.com/Dukeabaddon/ERD-Visualizer/network/members) |
+My work focuses on developer tools, high-performance applications, and on-device AI. I bridge raw engineering with polished user experience, and I am currently building context-compression MCP servers and VS Code extensions.
 
-### Full-Stack Web & Data Integration
-High-performance dashboards and transactional applications.
+I architect complete web applications, automation pipelines, and complex tooling that simplifies workflows. From AST-parsing algorithms to on-device ML with TFLite, I work where clean architecture meets real-world impact.
 
-| 📂 Project | ⚙️ Architecture & Tech | ⭐ Stars | 🍴 Forks |
-| :--- | :--- | :--- | :--- |
-| **[EarthPH](https://github.com/Dukeabaddon/earthph)**<br>Seismic dashboard | **React, Supabase, Leaflet**<br>Real-time earthquake monitor with 24-hr TTL mapping PHIVOLCS geo-data. | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/earthph?style=flat-square)](https://github.com/Dukeabaddon/earthph/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/earthph?style=flat-square)](https://github.com/Dukeabaddon/earthph/network/members) |
-| **[QC-Navigo](https://github.com/Dukeabaddon/qc-navigo-downloads)**<br>Mobile GIS routing | **Flutter, Dart, APIs**<br>Handles complex geospatial mobile interactions and location-based logic natively. | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/qc-navigo-downloads?style=flat-square)](https://github.com/Dukeabaddon/qc-navigo-downloads/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/qc-navigo-downloads?style=flat-square)](https://github.com/Dukeabaddon/qc-navigo-downloads/network/members) |
-| **[KursoKo](https://github.com/Dukeabaddon/KursoKo)**<br>Career assessment | **React, Vite, Tailwind**<br>RIASEC assessment for SHS students with careers, schools, and scholarships — client-side scoring, no backend. | [![Stars](https://img.shields.io/github/stars/Dukeabaddon/KursoKo?style=flat-square)](https://github.com/Dukeabaddon/KursoKo/stargazers) | [![Forks](https://img.shields.io/github/forks/Dukeabaddon/KursoKo?style=flat-square)](https://github.com/Dukeabaddon/KursoKo/network/members) |
+☕ Coffee: Always black.
 
----
+⚡ Tech Stack
 
-### 🔗 Connect With Me
+Frontend & UI
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/aaronmecate/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  /></a>
-  <a href="https://dukeabaddon.github.io/Aaron-s-Portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio logo"  /></a>
-  <a href="https://github.com/Dukeabaddon" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github logo"  /></a>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+Backend & Data
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+DevTools & Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Tree--Sitter-215732?style=for-the-badge&logo=tree-sitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code%20API-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+🏗️ Featured Projects
+
+🔧 Systems Architecture & DevTools
+
+Project
+
+Description
+
+Tech
+
+Stars
+
+[Gate-MCP](https://github.com/Dukeabaddon/Gate-MCP)
+
+Context-compression server with 5-layer LLM context compression via AST parsing & SQLite WAL caching
+
+TS Node.js Tree-sitter
+
+
+
+[FaceWatch](https://github.com/Dukeabaddon/FaceWatch)
+
+On-device facial recognition with MobileFaceNet 192-dim embeddings + Hive NoSQL
+
+Flutter Dart TFLite
+
+
+
+[ERD-Visualizer](https://github.com/Dukeabaddon/ERD-Visualizer)
+
+VS Code extension — parses SQL DDL & JSON schemas into interactive ER diagrams
+
+TS VS Code API SVG
+
+
+
+🌐 Full-Stack & Data
+
+Project
+
+Description
+
+Tech
+
+Stars
+
+[EarthPH](https://github.com/Dukeabaddon/earthph)
+
+Real-time seismic dashboard with 24hr TTL mapping PHIVOLCS geo-data
+
+React Supabase Leaflet
+
+
+
+[QC-Navigo](https://github.com/Dukeabaddon/qc-navigo-downloads)
+
+Mobile GIS routing with complex geospatial interactions
+
+Flutter Dart APIs
+
+
+
+📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dukeabaddon&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dukeabaddon&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9" height="180" />
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Dukeabaddon&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FF6B6B&currStreakLabel=45B7D1" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dukeabaddon&theme=react-dark&hide_border=true&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=45B7D1" height="180" />
+</div>
 
+🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dukeabaddon/Dukeabaddon/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dukeabaddon/Dukeabaddon/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Dukeabaddon/Dukeabaddon/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aaronmecate">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mecate.aaron.falla@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Thanks for stopping by 👋
+</p>
